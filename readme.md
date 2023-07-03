@@ -18,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-gray?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/c++-gray?style=for-the-badge&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/sql-gray?style=for-the-badge&logo=mysql)
+![php](https://img.shields.io/badge/php-gray?style=for-the-badge&logo=php)
 
 
 ### Technologies & Frameworks
