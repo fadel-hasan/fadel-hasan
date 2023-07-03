@@ -10,6 +10,9 @@
     <a href="www.linkedin.com/in/fadl-hasan">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+    <a href="https://codeforces.com/profile/fadel_hasan">
+        <img src="https://img.shields.io/badge/codeforces-white?style=flat-square&logo=codeforces" alt="CodeForces">
+    </a>
 </p>
 
 ### Languages
