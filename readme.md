@@ -24,9 +24,9 @@
 ### Technologies & Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![three.js](https://img.shields.io/badge/three.js-gray?style=for-the-badge&logo=three.js)
-![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
-![tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)
+![three.js](https://img.shields.io/badge/three.js-purple?style=for-the-badge&logo=three.js)
+![Bootstrap](https://img.shields.io/badge/bootstrap-gray?style=for-the-badge&logo=bootstrap)
+![tailwind](https://img.shields.io/badge/tailwind-gray?style=for-the-badge&logo=tailwindcss)
 
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows)
@@ -34,8 +34,9 @@
 
 ### skills
 ![Algorithms](https://img.shields.io/badge/algorithms-gray?style=for-the-badge)
-![Data structure](https://img.shields.io/badge/data%20structure-purple?style=for-the-badge)
-![Math](https://img.shields.io/badge/math-purple?style=for-the-badge)
+![Data structure](https://img.shields.io/badge/data%20structure-gray?style=for-the-badge)
+![Database design](https://img.shields.io/badge/database%20design-gray?style=for-the-badge)
+![Math](https://img.shields.io/badge/math-gray?style=for-the-badge)
 
 <details>
 <p align="center">
