@@ -43,6 +43,13 @@
 ![Database design](https://img.shields.io/badge/database%20design-gray?style=for-the-badge)
 ![Math](https://img.shields.io/badge/math-gray?style=for-the-badge)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadel-hasan&show_icons=true&locale=en&layout=compact" alt="fadlhasn" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadel-hasan&" alt="fadlhasn" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadel-hasan&show_icons=true&theme=radical)
+
 <details>
 <p align="center">
   <a href="https://github.com/fadel-hasan">
