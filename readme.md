@@ -22,6 +22,7 @@
 ![C++](https://img.shields.io/badge/c++-gray?style=for-the-badge&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/sql-gray?style=for-the-badge&logo=mysql)
 ![php](https://img.shields.io/badge/php-gray?style=for-the-badge&logo=php)
+![python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python)
 
 
 ### Technologies & Frameworks
@@ -33,6 +34,7 @@
 
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)
 
 
 ### skills
