@@ -7,7 +7,7 @@
         I am still a university student and I am learning more to become a full stack programmer,<br>
         but currently I am learning and developing myself in the field of artificial intelligence.<br>
     </i><br>
-    <a href="www.linkedin.com/in/fadl-hasn">
+    <a href="https://www.linkedin.com/in/fadl-hasn/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://codeforces.com/profile/fadel_hasan">
