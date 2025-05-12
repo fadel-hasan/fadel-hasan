@@ -4,8 +4,9 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Fadl hasn.<br>
-        I am still a university student and I am learning more to become a full stack programmer,<br>
-        but currently I am learning and developing myself in the field of artificial intelligence.<br>
+        Software Engineering (undergraduate student) with 1.5+ years of experience in backend development and AI engineering.<br>
+        Skilled in designing scalable RESTful APIs, optimizing databases, and building machine learning and deep learning models.<br>                     Expertise in data processing, task automation, NLP, and generative AI using Python and its libraries.<br>
+        Passionate about leveraging modern frameworks, AI tools, and data-driven solutions to solve complex problems.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/fadlhasn/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -13,42 +14,96 @@
     <a href="https://codeforces.com/profile/fadel_hasan">
         <img src="https://img.shields.io/badge/codeforces-white?style=flat-square&logo=codeforces" alt="CodeForces">
     </a>
+    <a href="mailto:fadelhasan2017@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gray?style=flat-square&logo=gmail" alt="Email">
+      </a>
+    <a href="https://www.kaggle.com/fadlhasn">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+    </a>
 </p>
 
-### Languages
-![HTML5](https://img.shields.io/badge/html5-gray?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-gray?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/javascript-gray?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/c++-gray?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/sql-gray?style=for-the-badge&logo=mysql)
-![php](https://img.shields.io/badge/php-gray?style=for-the-badge&logo=php)
-![python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python)
+## 🌟 Why AI?
+I'm driven to harness AI to solve real-world challenges, from automating tasks to advancing healthcare through intelligent systems. My goal is to build ethical and impactful AI solutions that make a difference.
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fadel-hasan.fadel-hasan&"  />
+</div>
+
+## 🛠️ Languages
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo"  />
+</div>
+
+## 🚀 Technologies & Frameworks
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+</div>
+
+## 🧰 Tools & Libraries
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo" />  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
+
+## 💻 Operating Systems
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+</div>
+
+## 🔍 Skills
+![Algorithms](https://img.shields.io/badge/algorithms-gold?style=for-the-badge)
+![Data structure](https://img.shields.io/badge/data%20structure-gold?style=for-the-badge)
+![Database design](https://img.shields.io/badge/database%20design-gold?style=for-the-badge)
+![Math](https://img.shields.io/badge/math-gold?style=for-the-badge)
+
+## 📊 GitHub Stats
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=fadel-hasan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadel-hasan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadel-hasan&theme=radical" alt="Streak Stats" />
+</p>
 
 
-### Technologies & Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![three.js](https://img.shields.io/badge/three.js-purple?style=for-the-badge&logo=three.js)
-![Bootstrap](https://img.shields.io/badge/bootstrap-gray?style=for-the-badge&logo=bootstrap)
-![tailwind](https://img.shields.io/badge/tailwind-gray?style=for-the-badge&logo=tailwindcss)
-
-### OS
-![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)
 
 
-### skills
-![Algorithms](https://img.shields.io/badge/algorithms-gray?style=for-the-badge)
-![Data structure](https://img.shields.io/badge/data%20structure-gray?style=for-the-badge)
-![Database design](https://img.shields.io/badge/database%20design-gray?style=for-the-badge)
-![Math](https://img.shields.io/badge/math-gray?style=for-the-badge)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadel-hasan&show_icons=true&locale=en&layout=compact" alt="fadlhasn" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadel-hasan&" alt="fadlhasn" /></p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadel-hasan&show_icons=true&theme=radical)
 
 <details>
 <p align="center">
