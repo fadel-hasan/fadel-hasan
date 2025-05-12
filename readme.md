@@ -1,13 +1,8 @@
-<h1 align="center">Hi, friends! <img src="./238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+# Hi, I'm Fadl Hasn! 👋
+
+Welcome to my GitHub profile! I'm a **Software Engineering undergraduate** with over **1.5 years of experience** in backend development and AI engineering. I specialize in designing scalable RESTful APIs, optimizing databases, and building machine learning and deep learning models. My expertise includes data processing, task automation, NLP, and generative AI using Python and its libraries. I'm passionate about leveraging modern frameworks, AI tools, and data-driven solutions to tackle complex problems.
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Fadl hasn.<br>
-        Software Engineering (undergraduate student) with 1.5+ years of experience in backend development and AI engineering.<br>
-        Skilled in designing scalable RESTful APIs, optimizing databases, and building machine learning and deep learning models.<br>                     Expertise in data processing, task automation, NLP, and generative AI using Python and its libraries.<br>
-        Passionate about leveraging modern frameworks, AI tools, and data-driven solutions to solve complex problems.<br>
-    </i><br>
     <a href="https://www.linkedin.com/in/fadlhasn/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
